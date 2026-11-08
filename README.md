@@ -1,3 +1,9 @@
+<!-- elide-retirement:2026-11-08 -->
+> [!IMPORTANT]
+> **Archived by Elide.** Elide's fork of this project was retired on November 8, 2026 and is no longer maintained here. Its code, branches, and history remain available for reference. Upstream project: https://github.com/micronaut-projects/micronaut-starter.
+>
+> Explore our current projects: [myna](https://github.com/elide-dev/myna), [bemo](https://github.com/elide-dev/bemo), [trufflecel](https://github.com/elide-dev/trufflecel), [truffledata](https://github.com/elide-dev/truffledata), and [elide](https://github.com/elide-dev/elide).
+
 # Micronaut Launch
 
 [![Maven Central](https://img.shields.io/maven-central/v/io.micronaut.starter/micronaut-starter-core.svg?label=Maven%20Central)](https://search.maven.org/artifact/io.micronaut.starter/micronaut-starter-core)
